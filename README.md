@@ -8,7 +8,7 @@ and I’m always eager to learn and explore new technologies.
 ## Skills
 
 ### Programming Languages
-- Rust [#####]
+- Rust
 - Python
 - Java
 - HTML
