@@ -9,3 +9,12 @@
 |   6| HTML       |
 |   7| CSS        |
 |   8| JavaScript |
+
+<details>
+  <summary>Frameworks</summary>
+  | Rank | Framework |
+  |-----:|-----------|
+  |     1| Laravel   |
+  |     2| Nextjs    |
+  |     3| Vue       |
+</details>
