@@ -29,9 +29,9 @@ and I’m always eager to learn and explore new technologies.
 - Github
 
 ## Task Lists
--[] Study Rust
--[] Study Laravel
--[] Create your first Laravel app
+- [x] Study Rust
+- [] Study Laravel
+- [] Create your first Laravel app
 
 You can visit my page at https://lnxpsyhi.github.io/
 
