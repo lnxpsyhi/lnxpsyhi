@@ -1,7 +1,7 @@
 <div align="center">
    <img alt="programmer" src="programmer.png" width="100">
 </div>
-<div id="badges" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/rommel-matic-267528327">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,7 +10,7 @@
    </a>
 </div>
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=lnxpsyhi&style=flat-square&color=800080" alt="">
+   <img src="https://komarev.com/ghpvc/?username=lnxpsyhi&style=flat-square&color=800080"&label=PROFILE+VIEWS alt="">
 </div>
 
 
