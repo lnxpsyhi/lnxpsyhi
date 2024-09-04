@@ -1,6 +1,11 @@
 # Hi, there! :wave:
 
-
+## Programming Languages
+- Rust
+- Python
+- Java
+- HTML
+- CSS
 
 You can visit my page at https://lnxpsyhi.github.io/
 
