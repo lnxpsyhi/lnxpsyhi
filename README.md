@@ -1,18 +1,32 @@
 # Hi, there! :wave:
 
 ## About Me
-I’m a dedicated student currently studying Computer Engineering—  I have a keen interest in software development and ethical hacking,
+I’m a dedicated student currently studying Computer Engineering—  
+I have a keen interest in software development and ethical hacking,
 and I’m always eager to learn and explore new technologies.
 
 ## Skills
+
 ### Programming Languages
 - Rust
 - Python
 - Java
 - HTML
 - CSS
-### Frameworks and Libraries
-### Tools and Platforms
+
+### Frameworks
+- Laravel
+- Next.js
+- Vue.js
+
+### Tools
+- Visual Studio Code
+- Apache Netbeans
+- Eclipse IDE
+- Git
+- 
+### Platforms
+- Github
 
 You can visit my page at https://lnxpsyhi.github.io/
 
