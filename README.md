@@ -55,7 +55,8 @@ You can visit my page at https://lnxpsyhi.github.io/
 
 # Crustaceans
 <picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg">
+   <source media="(prefers-color-scheme: dark)" srcset="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://www.rustacean.net/assets/cuddlyferris.svg">
    <img alt="Image of Ferris, unofficial mascot of Rust." width="100" height="100">
 </picture>
 
