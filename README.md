@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-   # Hi, there! :wave:
+   <h1>Hi, there! :wave:</h1>
 </div>
 
 ## About Me
