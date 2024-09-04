@@ -1,3 +1,5 @@
+## Hi, there!👋
+
 ## Programming Languages
 |Rank| Languages  |
 |---:|------------|
@@ -10,7 +12,6 @@
 |   7| CSS        |
 |   8| JavaScript |
 
-<details>
-  <summary>Others</summary>
-  --- If we pull together and commit ourselves, then we can push through anything.
-</details>
+---
+> If we pull together and commit ourselves, then we can push through anything.
+— Mona the Octocat
