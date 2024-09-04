@@ -60,4 +60,7 @@ You can visit my page at https://lnxpsyhi.github.io/
 
 Visit the community at https://www.rustacean.net/
 
+> [!NOTE]
+> I do not own any of the assets I used here. Credits to the rightful owner.
+
 <!-- TO DO: add more details about me later -->
