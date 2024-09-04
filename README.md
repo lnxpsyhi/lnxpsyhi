@@ -10,8 +10,10 @@
    </a>
 </div>
 <div align="center">
-   <img src="https://komarev.com/ghpvc/?username=lnxpsyhi&style=flat-square&color=800080"&label=PROFILE+VIEWS alt="">
+   <img src="https://komarev.com/ghpvc/?username=lnxpsyhi&style=flat-square&color=800080&label=PROFILE+VIEWS" alt="">
 </div>
+
+
 
 
 # Hi, there! :wave:
