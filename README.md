@@ -57,15 +57,6 @@ and I’m always eager to learn and explore new technologies.
 
 ### Meet Ferris https://www.rustacean.net
 
----
-
-Page: https://lnxpsyhi.github.io
-
-> [!NOTE]
-> This page is still under development.
-
----
-
 > If we pull together and commit ourselves, then we can push through anything.
 — *Mona the Octocat*
 
