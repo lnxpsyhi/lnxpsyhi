@@ -1,6 +1,7 @@
 <div align="center">
    <img alt="programmer" src="programmer.png" width="100">
 </div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/rommel-matic-267528327">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,14 +10,14 @@
       <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook Badge" />
    </a>
 </div>
+
 <div align="center">
    <img src="https://komarev.com/ghpvc/?username=lnxpsyhi&style=flat-square&color=800080&label=PROFILE+VIEWS" alt="">
 </div>
 
-
-
-
-# Hi, there! :wave:
+<div align="center">
+   # Hi, there! :wave:
+</div>
 
 ## About Me
 I’m a dedicated student currently studying Computer Engineering—
