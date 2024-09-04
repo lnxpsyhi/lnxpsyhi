@@ -60,6 +60,7 @@ and I’m always eager to learn and explore new technologies.
 ---
 
 > Page Link: https://lnxpsyhi.github.io
+
 > [!NOTE]
 > This page is still under development.
 
