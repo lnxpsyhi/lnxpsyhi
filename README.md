@@ -32,4 +32,12 @@ You can visit my page at https://lnxpsyhi.github.io/
 > If we pull together and commit ourselves, then we can push through anything.
 — *Mona the Octocat*
 
+---
+
+# Rustacean
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg">
+   <img alt="Image of Ferris, unofficial mascot for Rust.">
+</picture>
+
 <!-- TO DO: add more details about me later -->
