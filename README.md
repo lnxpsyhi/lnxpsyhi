@@ -1,7 +1,6 @@
-<picture align="center">
-   <source media="(prefers-color-scheme: light)" srcset="programmer.png">
-   <img alt="computer programmer">
-</picture>
+<div align="center">
+   <img alt="programmer" src="programmer.png" width="100">
+</div>
 
 # Hi, there! :wave:
 
