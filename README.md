@@ -2,6 +2,8 @@
    <img alt="programmer" src="programmer.png" width="100">
 </div>
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 # Hi, there! :wave:
 
 ## About Me
