@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/rommel-matic-267528327">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   &nbsp
   <a href="">
      <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook Badge" />
   </a>
