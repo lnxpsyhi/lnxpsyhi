@@ -1,4 +1,4 @@
-<picture>
+<picture align="center">
    <source media="(prefers-color-scheme: light)" srcset="programmer.png">
    <img alt="computer programmer">
 </picture>
