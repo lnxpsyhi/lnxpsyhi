@@ -1,4 +1,4 @@
-# Hi, there! :U+1F44B
+# Hi, there! :wave:
 
 
 
