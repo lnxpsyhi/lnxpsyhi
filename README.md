@@ -1,5 +1,9 @@
 # Hi, there! :wave:
 
+## About Me
+I’m a dedicated student currently studying Computer Engineering—  I have a keen interest in software development and ethical hacking,
+and I’m always eager to learn and explore new technologies.
+
 ## Programming Languages
 - Rust
 - Python
