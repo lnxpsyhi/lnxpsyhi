@@ -9,6 +9,9 @@
   <a href="">
      <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook Badge" />
   </a>
+  <a href="https://orcid.org/0009-0004-3807-423X">
+     <img src="https://img.shields.io/badge/Orcid-green?style=flat-square&logo=Orcid&logoColor=white" alt="Orcid Badge" />
+  </a>
 </div>
 
 <div align="center">
