@@ -24,7 +24,7 @@ and I’m always eager to learn and explore new technologies.
 - Apache Netbeans
 - Eclipse IDE
 - Git
-- 
+
 ### Platforms
 - Github
 
