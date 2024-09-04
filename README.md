@@ -1,3 +1,8 @@
+<picture>
+   <source media="(prefers-color-scheme: light)" srcset="https://www.flaticon.com/free-icon/programmer_3271001?term=computer+programmer&page=1&position=3&origin=search&related_id=3271001">
+   <img alt="computer programmer">
+</picture>
+
 # Hi, there! :wave:
 
 ## About Me
