@@ -48,19 +48,16 @@ and I’m always eager to learn and explore new technologies.
 
 ---
 
-# Meet Ferris
+# Rustacean
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg">
    <source media="(prefers-color-scheme: light)" srcset="https://www.rustacean.net/assets/cuddlyferris.svg">
    <img alt="Image of Ferris, unofficial mascot of Rust." width="100" height="100">
 </picture>
 
-### Rustacean
+### Meet Ferris https://www.rustacean.net
 
-Visit the community at https://www.rustacean.net/
-
-
-You can visit my page at https://lnxpsyhi.github.io/
+You can visit my page at https://lnxpsyhi.github.io
 
 > If we pull together and commit ourselves, then we can push through anything.
 — *Mona the Octocat*
