@@ -12,9 +12,6 @@
   <a href="https://orcid.org/0009-0004-3807-423X">
      <img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=ORCID&logoColor=white" alt="ORCID Badge" />
   </a>
-  <a href="https://app.hackthebox.com">
-     <img src="https://img.shields.io/badge/HackTheBox-green?style=flat-square&logo=HackTheBox&logoColor=white" alt="HackTheBox Badge" />
-  </a>
 </div>
 
 <div align="center">
