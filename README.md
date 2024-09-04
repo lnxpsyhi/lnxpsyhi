@@ -40,6 +40,6 @@ You can visit my page at https://lnxpsyhi.github.io/
    <img alt="Image of Ferris, unofficial mascot of Rust." width="100" height="100">
 </picture>
 
-https://www.rustacean.net/
+Visit the community at https://www.rustacean.net/
 
 <!-- TO DO: add more details about me later -->
