@@ -60,10 +60,8 @@ You can visit my page at https://lnxpsyhi.github.io/
 
 Visit the community at https://www.rustacean.net/
 
-<details>
-   <summary>Other links</summary>
-   > https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file
-   > https://www.flaticon.com/
-</details>
+### Othe Links
+https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file
+https://www.flaticon.com/
 
 <!-- TO DO: add more details about me later -->
