@@ -1,7 +1,8 @@
 # Hi, there! :wave:
 
 ## About Me
-I’m a dedicated student currently studying Computer Engineering—  
+I’m a dedicated student currently studying Computer Engineering—
+ Alongside my studies, I’m a passionate hobbyist—
 I have a keen interest in software development and ethical hacking,
 and I’m always eager to learn and explore new technologies.
 
