@@ -4,12 +4,15 @@
 I’m a dedicated student currently studying Computer Engineering—  I have a keen interest in software development and ethical hacking,
 and I’m always eager to learn and explore new technologies.
 
-## Programming Languages
+## Skills
+### Programming Languages
 - Rust
 - Python
 - Java
 - HTML
 - CSS
+### Frameworks and Libraries
+### Tools and Platforms
 
 You can visit my page at https://lnxpsyhi.github.io/
 
