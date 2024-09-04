@@ -55,7 +55,9 @@ and I’m always eager to learn and explore new technologies.
    <img alt="Image of Ferris, unofficial mascot of Rust." width="100" height="100">
 </picture>
 
-### Meet Ferris https://www.rustacean.net
+### (Meet Ferris) [https://www.rustacean.net]
+
+---
 
 You can visit my page at https://lnxpsyhi.github.io
 
