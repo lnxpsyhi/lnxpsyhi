@@ -16,9 +16,7 @@ and I’m always eager to learn and explore new technologies.
 
 ### Frameworks
 - Laravel
-- Next.js
-- Vue.js
-
+  
 ### Tools
 - Visual Studio Code
 - Apache Netbeans
