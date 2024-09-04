@@ -1,5 +1,5 @@
 <picture>
-   <source media="(prefers-color-scheme: light)" srcset="https://www.flaticon.com/free-icon/programmer_3271001?term=computer+programmer&page=1&position=3&origin=search&related_id=3271001">
+   <source media="(prefers-color-scheme: light)" srcset="programmer.png">
    <img alt="computer programmer">
 </picture>
 
