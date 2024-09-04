@@ -34,7 +34,7 @@ You can visit my page at https://lnxpsyhi.github.io/
 
 ---
 
-# Rustacean
+# Crustaceans
 <picture>
    <source media="(prefers-color-scheme: light)" srcset="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg">
    <img alt="Image of Ferris, unofficial mascot of Rust." width="100" height="100">
