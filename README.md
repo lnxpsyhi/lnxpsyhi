@@ -46,11 +46,6 @@ and I’m always eager to learn and explore new technologies.
 ### Platforms
 - Github
 
-You can visit my page at https://lnxpsyhi.github.io/
-
-> If we pull together and commit ourselves, then we can push through anything.
-— *Mona the Octocat*
-
 ---
 
 # Meet Ferris
@@ -63,5 +58,11 @@ You can visit my page at https://lnxpsyhi.github.io/
 ### Rustacean
 
 Visit the community at https://www.rustacean.net/
+
+
+You can visit my page at https://lnxpsyhi.github.io/
+
+> If we pull together and commit ourselves, then we can push through anything.
+— *Mona the Octocat*
 
 <!-- TO DO: add more details about me later -->
