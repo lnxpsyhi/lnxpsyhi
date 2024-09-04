@@ -64,8 +64,4 @@ You can visit my page at https://lnxpsyhi.github.io/
 
 Visit the community at https://www.rustacean.net/
 
-### Othe Links
-- https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file
-- https://www.flaticon.com/
-
 <!-- TO DO: add more details about me later -->
