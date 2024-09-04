@@ -62,8 +62,8 @@ Visit the community at https://www.rustacean.net/
 
 <details>
    <summary>Other links</summary>
-   <p>https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file</p>
-   <p>https://www.flaticon.com/</p>
+   > https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file
+   > https://www.flaticon.com/
 </details>
 
 <!-- TO DO: add more details about me later -->
