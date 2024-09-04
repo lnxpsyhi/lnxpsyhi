@@ -11,10 +11,6 @@
 |   8| JavaScript |
 
 <details>
-  <summary>Frameworks</summary>
-| Rank | Framework |
-|-----:|-----------|
-|     1| Laravel   |
-|     2| Nextjs    |
-|     3| Vue       |
+  <summary>Others</summary>
+  --- If we pull together and commit ourselves, then we can push through anything.
 </details>
