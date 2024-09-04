@@ -1,8 +1,9 @@
 <div align="center">
    <img alt="programmer" src="programmer.png" width="100">
 </div>
-
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 
 # Hi, there! :wave:
 
