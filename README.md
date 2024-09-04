@@ -12,10 +12,9 @@
 
 <details>
   <summary>Frameworks</summary>
-  ## Top Frameworks
-  | Rank | Framework |
-  |-----:|-----------|
-  |     1| Laravel   |
-  |     2| Nextjs    |
-  |     3| Vue       |
+| Rank | Framework |
+|-----:|-----------|
+|     1| Laravel   |
+|     2| Nextjs    |
+|     3| Vue       |
 </details>
