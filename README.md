@@ -59,8 +59,7 @@ You can visit my page at https://lnxpsyhi.github.io/
    <source media="(prefers-color-scheme: light)" srcset="https://www.rustacean.net/assets/cuddlyferris.svg">
    <img alt="Image of Ferris, unofficial mascot of Rust." width="100" height="100">
 </picture>
-### Rustacean
-Visit the community at https://www.rustacean.net/
+> Visit the community at https://www.rustacean.net/
 
 ### Othe Links
 - https://github.com/antonkomarev/github-profile-views-counter?tab=readme-ov-file
