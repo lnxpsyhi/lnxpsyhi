@@ -2,11 +2,11 @@
    <img alt="programmer" src="programmer.png" width="100">
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rommel-matic-267528327?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfXzhwG%2B0RDOCLqo1%2FXv%2FOg%3D%3D">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/rommel-matic-267528327">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="">
-      <img src="https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=white" alt="Facebook Badge" />
+      <img src="https://img.shields.io/badge/Facebook-blue?style=plastic&logo=Facebook&logoColor=white" alt="Facebook Badge" />
    </a>
 </div>
 <div align="center">
