@@ -49,7 +49,7 @@ and I’m always eager to learn and explore new technologies.
 ### Platforms
 - Github
 
-# Rustacean
+### Rustacean
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg">
    <source media="(prefers-color-scheme: light)" srcset="https://www.rustacean.net/assets/cuddlyferris.svg">
