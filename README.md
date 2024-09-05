@@ -22,30 +22,30 @@
    <h1>Hi, there! :wave:</h1>
 </div>
 
-# About Me
+## About Me
 I’m a Computer Engineering student and a hobbyist—
 I have a keen interest in software development, robotics and ethical hacking—
 I’m always eager to learn and explore new technologies.
 
-# Skills
+## Skills
 
-## Programming Languages
+### Programming Languages
 - Rust
 - Python
 - Java
 - HTML
 - CSS
 
-## Frameworks
+### Frameworks
 - Laravel
   
-## Tools
+### Tools
 - Visual Studio Code
 - Apache Netbeans
 - Eclipse IDE
 - Git
 
-## Platforms
+### Platforms
 - Github
 
 > If we pull together and commit ourselves, then we can push through anything.
