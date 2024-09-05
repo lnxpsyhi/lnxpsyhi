@@ -49,8 +49,6 @@ and I’m always eager to learn and explore new technologies.
 ### Platforms
 - Github
 
----
-
 # Rustacean
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg">
