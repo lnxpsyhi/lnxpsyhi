@@ -48,16 +48,6 @@ I’m always eager to learn and explore new technologies.
 ## Platforms
 - Github
 
-
-# Rustacean
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg">
-   <source media="(prefers-color-scheme: light)" srcset="https://www.rustacean.net/assets/cuddlyferris.svg">
-   <img alt="Image of Ferris, unofficial mascot of Rust." width="100" height="100">
-</picture>
-
-## Meet Ferris https://www.rustacean.net
-
 > If we pull together and commit ourselves, then we can push through anything.
 — *Mona the Octocat*
 
