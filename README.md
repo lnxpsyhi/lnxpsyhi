@@ -22,41 +22,42 @@
    <h1>Hi, there! :wave:</h1>
 </div>
 
-## About Me
+# About Me
 I’m a dedicated student currently studying Computer Engineering—
  Alongside my studies, I’m a passionate hobbyist—
 I have a keen interest in software development and ethical hacking,
 and I’m always eager to learn and explore new technologies.
 
-## Skills
+# Skills
 
-### Programming Languages
+## Programming Languages
 - Rust
 - Python
 - Java
 - HTML
 - CSS
 
-### Frameworks
+## Frameworks
 - Laravel
   
-### Tools
+## Tools
 - Visual Studio Code
 - Apache Netbeans
 - Eclipse IDE
 - Git
 
-### Platforms
+## Platforms
 - Github
 
-### Rustacean
+
+# Rustacean
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://www.rustacean.net/assets/rustacean-orig-noshadow.svg">
    <source media="(prefers-color-scheme: light)" srcset="https://www.rustacean.net/assets/cuddlyferris.svg">
    <img alt="Image of Ferris, unofficial mascot of Rust." width="100" height="100">
 </picture>
 
-### Meet Ferris https://www.rustacean.net
+## Meet Ferris https://www.rustacean.net
 
 > If we pull together and commit ourselves, then we can push through anything.
 — *Mona the Octocat*
